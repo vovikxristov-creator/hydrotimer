@@ -1,0 +1,5 @@
+appId": "com.hydrotimer.app",
+  "appName": "HydroTimer",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
